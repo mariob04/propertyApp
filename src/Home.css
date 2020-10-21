@@ -1,0 +1,7 @@
+.home__section {
+    display: flex;
+    padding: 30px;
+}
+.home > h1 {
+    padding-left: 40px;
+}
